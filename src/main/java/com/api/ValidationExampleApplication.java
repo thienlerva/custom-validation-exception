@@ -1,8 +1,8 @@
-package com.javatechie.api;
+package com.api;
 
-import com.javatechie.api.dto.UserRequest;
-import com.javatechie.api.entity.User;
-import com.javatechie.api.repository.UserRepository;
+import com.api.dto.UserRequest;
+import com.api.repository.UserRepository;
+import com.api.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

@@ -1,4 +1,4 @@
-package com.javatechie.api.exception;
+package com.api.exception;
 
 public class UserNotFoundException  extends Exception{
 

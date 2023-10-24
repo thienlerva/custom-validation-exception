@@ -1,9 +1,9 @@
-package com.javatechie.api.dto;
+package com.api.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import validation.ValidateGenderType;
+import com.api.validation.ValidateGenderType;
 
 import javax.validation.constraints.*;
 

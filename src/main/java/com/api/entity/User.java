@@ -1,4 +1,4 @@
-package com.javatechie.api.entity;
+package com.api.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

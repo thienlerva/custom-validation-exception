@@ -8,7 +8,7 @@
 		<version>2.6.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.javatechie</groupId>
+	<groupId>com.java</groupId>
 	<artifactId>validation-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>validation-example</name>

@@ -1,6 +1,6 @@
-package com.javatechie.api.repository;
+package com.api.repository;
 
-import com.javatechie.api.entity.User;
+import com.api.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository  extends JpaRepository<User,Integer> {

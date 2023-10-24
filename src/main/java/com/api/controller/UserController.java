@@ -1,9 +1,9 @@
-package com.javatechie.api.controller;
+package com.api.controller;
 
-import com.javatechie.api.dto.UserRequest;
-import com.javatechie.api.entity.User;
-import com.javatechie.api.exception.UserNotFoundException;
-import com.javatechie.api.service.UserService;
+import com.api.dto.UserRequest;
+import com.api.entity.User;
+import com.api.exception.UserNotFoundException;
+import com.api.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
